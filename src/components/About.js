@@ -27,16 +27,11 @@ const About = () => (
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Jonathan Doe</span>
+              <span>Trisha Rivera</span>
               <br />
-              <span>
-                1600 Amphitheatre Parkway
-                <br /> Mountain View, CA 94043 US
-              </span>
+              <span>(818)634-2218</span>
               <br />
-              <span>(123)456-7890</span>
-              <br />
-              <span>anyone@website.com</span>
+              <span>TrishaLeighRivera@gmail.com</span>
             </p>
           </div>
           <div className="columns download">
