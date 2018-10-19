@@ -1,8 +1,7 @@
 {
-  "name": "gatsby-starter-ceevee",
-  "description": "Gatsby Starter - CeeVee ",
+  "name": "trisha-rivera",
+  "description": "Trisha Rivera",
   "version": "1.0.1",
-  "author": "Aman Mittal <amandeepmittal@live.com>",
   "dependencies": {
     "gatsby": "^1.9.145",
     "gatsby-link": "^1.6.32",
@@ -21,7 +20,8 @@
     "react-icons": "2.2.7",
     "react-slick": "0.16.0",
     "slick-carousel": "1.8.1",
-    "typography-theme-bootstrap": "0.16.7"
+    "typography-theme-bootstrap": "0.16.7",
+    "micro": "latest"
   },
   "keywords": [
     "gatsby"
@@ -32,7 +32,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro"
   },
   "devDependencies": {
     "prettier": "^1.9.2"
